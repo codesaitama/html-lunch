@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Persol Lunch/v15/Server/sqlite3
+/.vs/Persol Lunch/v15
+/.vs/Lunch App/v15
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
